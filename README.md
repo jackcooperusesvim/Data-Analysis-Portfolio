@@ -57,9 +57,13 @@ Currently Learning/Improving In (ordered by priority):
 - Neovim _btw_ (This one is gonna be here a while. 2 years in and I am pretty fast, but there's no way I have even scratched the surface)
 - Go (currently learning on boot.dev)
 - Django (for living the solopreneur dream someday)
-- Stenography (10 minutes a day, and you can learn anything)
-  On the Backburner:
+- Stenography (10 minutes a day, and you can learn anything)<br>
+
+On the Backburner:
   - Backend Development with Go/Django (for living the solopreneur dream someday. Thanks to [boot.dev](boot.dev) btw for the great course)
+  - Mojo for Data Analysis (still in beta, but looks promising)
+
+
 Data Analysis:
   - Tableau (Generally not a fan of no/low-code tools, but Tableau is too effective to ignore)
   - Python
