@@ -29,10 +29,6 @@ Links to all my completed and in-progress projects, as well as some information 
   
 ## In-Progress Projects
 
-### [Music_Analysis (continuation)](https://github.com/jackcooperusesvim/Music_Analysis)
-#### Goal
-  I would like to expand on this analysis more, and develop a model for predicting the popularity of a song based off of it's intrinsic musical features
-
 ### _TODO: FUN MUSIC-RELATED DATA PROJECT TO COME HERE (I need to get it to a presentable state first...)_
 
 ### Go_Learn | Data Science Library
@@ -42,6 +38,11 @@ Links to all my completed and in-progress projects, as well as some information 
   This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
   
 ## The Backburner
+
+
+### [Music_Analysis (continuation)](https://github.com/jackcooperusesvim/Music_Analysis)
+#### Goal
+  I would like to expand on this analysis more, and develop a model for predicting the popularity of a song based off of it's intrinsic musical features
 
 ### [Connect 4 AI (minimax)](https://github.com/jackcooperusesvim/connect4)
 #### Goal
