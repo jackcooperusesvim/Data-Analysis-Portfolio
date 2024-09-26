@@ -87,7 +87,7 @@ Terminal and Code Editing:
     - oil.nvim
     - neotree
     - transparent.nvim
-    - super-maven.nvim (Blazingly fast autocomplete | FASTER THAN MY LSP!!!)
+    - super-maven.nvim (Blazingly fast AI autocomplete | _FASTER THAN MY LSP!!!_)
   
 AI:
   - Ollama (considering building a personal RAG with this)
