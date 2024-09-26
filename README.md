@@ -30,17 +30,25 @@ Links to all my completed and ongoing projects, as well as some information abou
   
 ## Ongoing
 
+### [Music_Analysis](https://github.com/jackcooperusesvim/Music_Analysis)
+#### Goal
+  I would like to expand on this analysis more, and develop a model for predicting the popularity of a song based off of it's intrinsic musical features
+
+### TODO: FUN MUSIC-RELATED DATA PROJECT TO COME HERE (I need to get it to a presentable state first...)
+
+### Go_Learn | Data Science Library
+#### Goal
+  The goal for this project is to learn more about the core algoritms behing statistical and Machine Learning models by writing them from scratch in Go with nothing but the standard library. I don't care _too_ much about speed or optimization, but more on writing the algorithms as they might be expressed in speech. This is not intended to be practical. It is a learning experience.
+#### Status
+  This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
+  
+## On The Back-burner
+
 ### [Connect 4 AI (minimax)](https://github.com/jackcooperusesvim/connect4)
 #### Goal
   The goal for this project is to build an AI algorithm (minimax) to play connect 4 perfectly (like some do in tic-tac-toe). Written in Go
 #### Status
   I am going to be honest, I tried to calculate if my computer could even hold all the information needed at once, and results were inconclusive. This may or may-not be an impossibility (lol), but I am going to give it a shot. So far I just have the encoding and decoding for a compressed connect 4 board finished.
-
-### Go_Learn
-#### Goal
-  The goal for this project is to learn more about the core algoritms behing statistical and Machine Learning models by writing them from scratch in Go with nothing but the standard library. I don't care _too_ much about speed or optimization, but more on writing the algorithms as they might be expressed in speech. This is not intended to be practical. It is a learning experience.
-#### Status
-  This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
   
 ## Favorite Tools
 
