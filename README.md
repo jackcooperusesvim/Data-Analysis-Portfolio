@@ -30,7 +30,7 @@ Links to all my completed and ongoing projects, as well as some information abou
   
 ## Ongoing
 
-### [Music_Analysis](https://github.com/jackcooperusesvim/Music_Analysis)
+### [Music_Analysis (continuation)](https://github.com/jackcooperusesvim/Music_Analysis)
 #### Goal
   I would like to expand on this analysis more, and develop a model for predicting the popularity of a song based off of it's intrinsic musical features
 
