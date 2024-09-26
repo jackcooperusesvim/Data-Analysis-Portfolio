@@ -1,7 +1,6 @@
 # Data-Analysis-Portfolio
-Links to all my completed and ongoing projects, as well as some information about myself and my favorite tools and pieces of my workflow.
-## Favorite Tools
-## Complete
+Links to all my completed and in-progress projects, as well as some information about my favorite tools and pieces of my workflow.
+## Complete Projects
 ### [MonkeyType Analysis](https://github.com/jackcooperusesvim/monkeytype-analysis)
 #### Tools Used
   - Python (Libraries and tools)
@@ -28,13 +27,13 @@ Links to all my completed and ongoing projects, as well as some information abou
 #### Other Notes
   It was during the course of this analysis (or more accurately, it was during the data prep), that I found the Polars library and discovered the idea of embedded SQL in Python DataFrame Libraries. Personally, I hate the syntax of Pandas, so the fact that I could do aggregations and filtering with old-faithful SQL was a game-changer. I am still dedicating time to learning Pandas and Polars syntax, as they are (in order) the current and future industry standard, and many data operations still require it, but embedded SQL is such a blazingly fast improvement for anyone, that I can't ignore it. It is now definitively a part of my workflow.
   
-## Ongoing
+## In-Progress Projects
 
 ### [Music_Analysis (continuation)](https://github.com/jackcooperusesvim/Music_Analysis)
 #### Goal
   I would like to expand on this analysis more, and develop a model for predicting the popularity of a song based off of it's intrinsic musical features
 
-### TODO: FUN MUSIC-RELATED DATA PROJECT TO COME HERE (I need to get it to a presentable state first...)
+### _TODO: FUN MUSIC-RELATED DATA PROJECT TO COME HERE (I need to get it to a presentable state first...)_
 
 ### Go_Learn | Data Science Library
 #### Goal
@@ -42,7 +41,7 @@ Links to all my completed and ongoing projects, as well as some information abou
 #### Status
   This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
   
-## On The Backburner
+## The Backburner
 
 ### [Connect 4 AI (minimax)](https://github.com/jackcooperusesvim/connect4)
 #### Goal
