@@ -38,7 +38,7 @@ Links to all my completed and ongoing projects, as well as some information abou
 
 ### Go_Learn | Data Science Library
 #### Goal
-  The goal for this project is to learn more about the core algoritms behing statistical and Machine Learning models by writing them from scratch in Go with nothing but the standard library. I don't care _too_ much about speed or optimization, but more on writing the algorithms as they might be expressed in speech. This is not intended to be practical. It is a learning experience.
+  The goal for this project is to learn more about the core algoritms behing statistical and Machine Learning models by writing them from scratch in Go with nothing but the standard library. I don't care _too_ much about speed or optimization, but more on writing the algorithms as they might be expressed in speech. This is not intended to be practical: it's a learning experience.
 #### Status
   This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
   
