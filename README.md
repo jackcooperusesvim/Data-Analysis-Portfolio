@@ -58,7 +58,8 @@ Currently Learning/Improving In (ordered by priority):
 - Go (currently learning on boot.dev)
 - Django (for living the solopreneur dream someday)
 - Stenography (10 minutes a day, and you can learn anything)
-
+  On the Backburner:
+  - Backend Development with Go/Django (for living the solopreneur dream someday. Thanks to [boot.dev](boot.dev) btw for the great course)
 Data Analysis:
   - Tableau (Generally not a fan of no/low-code tools, but Tableau is too effective to ignore)
   - Python
