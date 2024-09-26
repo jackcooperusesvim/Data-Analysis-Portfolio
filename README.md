@@ -42,7 +42,7 @@ Links to all my completed and ongoing projects, as well as some information abou
 #### Status
   This project is not all on GitHub (yet), but I do have some of it contained in the ["golang" branch of my Music_Analysis project](https://github.com/jackcooperusesvim/Music_Analysis/tree/golang)
   
-## On The Back-burner
+## On The Backburner
 
 ### [Connect 4 AI (minimax)](https://github.com/jackcooperusesvim/connect4)
 #### Goal
