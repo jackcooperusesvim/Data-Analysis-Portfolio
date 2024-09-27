@@ -4,9 +4,9 @@ Links to all my completed and in-progress projects, as well as some information 
 ### [MonkeyType Analysis](https://github.com/jackcooperusesvim/monkeytype-analysis)
 #### Tools Used
   - Python (libraries and tools)
-  - Sk-Learn
-  -  Pandas
-  -  Jupyter Notebooks
+    - Sk-Learn
+    -  Pandas
+    -  Jupyter Notebooks
 #### Skills on Display
   - Data Visualization
   - Data Analysis
@@ -16,8 +16,9 @@ Links to all my completed and in-progress projects, as well as some information 
 
 ### [Music_Analysis](https://github.com/jackcooperusesvim/Music_Analysis)
 #### Tools Used
-  - Pandas and Polars
   - Basic SQL
+  - Python (libraries and tools)
+    - Pandas and Polars
   - Sk-Learn
 #### Skills on Display
   - Data Visualization
