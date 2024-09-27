@@ -3,7 +3,7 @@ Links to all my completed and in-progress projects, as well as some information 
 ## Complete Projects
 ### [MonkeyType Analysis](https://github.com/jackcooperusesvim/monkeytype-analysis)
 #### Tools Used
-  - Python (Libraries and tools)
+  - Python (libraries and tools)
   - Sk-Learn
   -  Pandas
   -  Jupyter Notebooks
@@ -29,8 +29,16 @@ Links to all my completed and in-progress projects, as well as some information 
   
 ## In-Progress Projects
 
-### _TODO: FUN MUSIC-RELATED DATA PROJECT TO COME HERE (I need to get it to a presentable state first...)_
+### [Guitar Tab Web-Scraper (with selenium)](https://github.com/jackcooperusesvim/ultimate-tabs-analysis)
 
+#### Goal
+  The goal of this project is to be able to scrape guitar tabulature data from Ultimate Guitar, and to analyze the data to find common patterns within music. After this, I may create a generation model for creating guitar solos based off of this.
+#### Status
+  So far I just have a link scraper done and the scraped links. Next is parsing the source to isolate the tabs, and parsing the tabs into a more machine-readable format.
+#### Tools Used
+  - Python (libraries and tools)
+    - Selenium
+  
 ### Go_Learn | Data Science Library
 #### Goal
   The goal for this project is to learn more about the core algoritms behing statistical and Machine Learning models by writing them from scratch in Go with nothing but the standard library. I don't care _too_ much about speed or optimization, but more on writing the algorithms as they might be expressed in speech. This is not intended to be practical: it's a learning experience.
