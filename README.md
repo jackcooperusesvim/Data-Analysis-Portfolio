@@ -19,12 +19,12 @@ Links to all my completed and in-progress projects, as well as some information 
   - Basic SQL
   - Python (libraries and tools)
     - Pandas and Polars
-  - Sk-Learn
+    - Sk-Learn
 #### Skills on Display
   - Data Visualization
   - Data Modeling and the Data Analysis Process
   - Data Transformation
-  - Data Modeling an
+  - Data Modeling
 #### Other Notes
   It was during the course of this analysis (or more accurately, it was during the data prep), that I found the Polars library and discovered the idea of embedded SQL in Python DataFrame Libraries. Personally, I hate the syntax of Pandas, so the fact that I could do aggregations and filtering with old-faithful SQL was a game-changer. I am still dedicating time to learning Pandas and Polars syntax, as they are (in order) the current and future industry standard, and many data operations still require it, but embedded SQL is such a blazingly fast improvement for anyone, that I can't ignore it. It is now definitively a part of my workflow.
   
